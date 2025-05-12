@@ -9,15 +9,6 @@ A Jupyter Notebook-based chatbot that uses contextual information to provide acc
 - Generates responses using OpenAI's GPT API.
 - Demonstrates interactive usage within a Jupyter Notebook.
 
-## Requirements
-
-- Python 3.8 or higher
-- Jupyter Notebook
-- Python packages listed in `requirements.txt`:
-  - openai
-  - numpy
-  - pandas
-
 ## Installation
 
 1. Clone this repository:
@@ -54,17 +45,3 @@ A Jupyter Notebook-based chatbot that uses contextual information to provide acc
 └── README.md                          # Project overview and instructions
 ```
 
-## Configuration
-
-Set your OpenAI API key in an environment variable before running the notebook:
-```bash
-export OPENAI_API_KEY="your_api_key_here"
-```
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-
-Licensed under the MIT License. See [LICENSE](LICENSE) for details.
