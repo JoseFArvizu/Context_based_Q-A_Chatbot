@@ -19,10 +19,6 @@ A Jupyter Notebook-based chatbot that uses contextual information to provide acc
    ```bash
    cd Context_based_QA_Chatbot
    ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
