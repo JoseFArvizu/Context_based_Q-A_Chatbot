@@ -37,7 +37,6 @@ A Jupyter Notebook-based chatbot that uses contextual information to provide acc
 ```
 .
 ├── Context_based_Q&A_Chatbot.ipynb    # Main notebook
-├── requirements.txt                   # Python dependencies
 └── README.md                          # Project overview and instructions
 ```
 
