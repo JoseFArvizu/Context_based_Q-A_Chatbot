@@ -13,11 +13,11 @@ A Jupyter Notebook-based chatbot that uses contextual information to provide acc
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/JoseFArvizu/Context_based_QA_Chatbot
    ```
 2. Navigate into the project directory:
    ```bash
-   cd <repository-directory>
+   cd Context_based_QA_Chatbot
    ```
 3. Install dependencies:
    ```bash
